@@ -1,69 +1,58 @@
-<p align="left">Hi 👋, I'm Benson<br>I'm an aspiring data scientist<br>🌱 I’m currently learning Machine learning, Data analytics<br>💬 Ask me about Python and Data analysis<br>📫 How to reach me bensonmaroko01@gmail.com</p>
+<h1 align="center">Hi there, I'm Benson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-###
+<h3 align="center">🚀 Aspiring Data Scientist | Passionate about ML & Data Analytics 🚀</h3>
 
+---
+
+### 🌱 About Me
+- 📌 Currently learning **Machine Learning & Data Analytics**
+- 🐍 Love working with **Python, Pandas, NumPy, TensorFlow**
+- 💬 Ask me about **Python, Data Analysis & Visualization**
+- 📧 Reach me at **bensonmaroko01@gmail.com**
+
+---
+
+<h3 align="center">🔧 Tech Stack</h3>
 <div align="center">
-  <img height="200" src="https://images.app.goo.gl/QNZfmkYBMi13XKSr8"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/cissebenn/cissebenn/output/snake.svg" alt="Snake animation" />
-
-###
-
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="bensonmaroko01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/cisseben" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/_Cisse_Ben" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/757890574" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cissebenn&show_icons=true&theme=radical&hide_border=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=cissebenn&theme=radical&hide_border=true" height="180px" />
 </div>
 
-###
+---
 
+<h3 align="center">🌍 Connect with Me</h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cissebenn/count.svg?"  />
+  <a href="mailto:bensonmaroko01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/cisseben" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/_Cisse_Ben" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://wa.me/757890574" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 
-###
+---
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cissebenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=cissebenn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cissebenn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=cissebenn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cissebenn&theme=radical&no-frame=true&margin-w=8&margin-h=8" height="150px" />
+</p>
 
-###
+---
+---
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<h3 align="center">💖 Thank You for Visiting!</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/cissebenn/count.svg?" />
+</p>
