@@ -42,7 +42,6 @@
 </div>
 
 ---
----
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
